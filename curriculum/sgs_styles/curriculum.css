@@ -1,0 +1,62 @@
+body{
+	
+}
+
+
+h1{
+	color: whitesmoke;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #04AA6D;
+	display: block;
+}
+.div1,.div2,.div3{
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 10px;
+}
+.area{
+	border: 2px solid #04AA6D;
+	border-radius: 10px;
+	width: 100%;
+}
+.btn{
+	background: #04AA6D;
+	color: whitesmoke;
+	width: 100%;
+	transition: 0.2s;
+}
+.btn:hover{
+	color: black;
+	font-weight: bold;
+}
+.email,.nombre,.obs{
+	color: grey;
+
+}
+.form-control{
+	color: grey;
+	border: 2px solid #04AA6D;
+	border-radius: 10px;
+	width: 100%;
+}
+.form-check-input{
+	border: 2px solid #04AA6D;
+	border-radius: 10px;
+}
+.btnsubmit{
+	width: 20%;
+	height: 15%;
+	color: whitesmoke;
+	background: red;
+	border: 2px solid red;
+	border-radius: 10px;
+	transition: 0.2s;
+}
+.btnsubmit:hover{
+	background: #FA4545;
+	font-weight: bold;
+	color: black;
+}
